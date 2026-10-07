@@ -1,0 +1,201 @@
+.header-nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.header-items
+{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.header-nav-list
+{
+    margin-left: 33px;
+}
+
+
+.d1 h2 
+{
+    font-size: 33px;
+}
+
+.d2 h2 
+{
+    font-size: 66px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin: 0;
+}
+
+
+h2
+{
+    width: 474px;
+}
+
+
+.d2 h2 span 
+{
+    background-color: #EBD96B; 
+    padding: 0 10px;           
+    display: inline-block;
+}
+
+
+.d2 h2 .white-bg
+{
+    background-color: #FFFFFF;
+    padding: 0 10px;
+    display: inline-block;
+}
+
+
+.hero-banner 
+{
+    position: relative;
+
+    background-image: url('../img/Rectangle 2.png');
+    background-size: cover;    
+    background-position: center; 
+
+    border-radius: 40px;
+
+    padding: 60px 50px;
+    margin: 30px 40px;
+
+    height: 500px;
+    box-sizing: border-box;
+}
+
+
+.hoodie
+{
+    position: absolute;
+
+    right: 900px;
+    bottom: 0;
+
+    height: 500px;
+    width: auto;
+}
+.shop
+{
+    width: 120px;
+
+}
+
+.brands
+{
+    width: 100%;
+    height: 120px;
+    background-color: #E6C744;
+    
+}
+.brands
+{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.veshi
+{
+    display: flex;
+    gap: 600px;
+    font-size:large;
+    font-weight: 500 ;
+}
+.Hudi-black
+{
+    display: flex;
+    gap: 222px;
+}
+
+.Yellow-Block
+{
+   background-image: url('../img/ЖелтыйБлок.png');
+
+    background-size: cover;
+    background-position: center;
+
+    position: relative;
+
+    width: 100%;
+    height: 500px;
+}
+
+
+  .Yellow-Block-TEXT
+{
+    position: absolute;
+
+    left: 55%;
+    top: 70px;
+
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.PAYDAY
+{
+    background-color: #fff;
+    padding: 0 10px;
+}
+
+.yellow-hoodie
+{
+    position: absolute;
+    left: 30px;
+    bottom: 0;
+    height: 500px;
+    width: auto;
+}
+.Yellow-Block-txt1
+{
+    position: absolute;
+
+    left: 55%;
+    top: 210px;
+
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.Yellow-Block-txt2
+{
+    position: absolute;
+
+    left: 55%;
+    top: 300px;
+
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.Yellow-Block-txt2 strong
+{
+    font-weight: 900;
+}
+
+.shopNOW {  
+     position: absolute;
+    left: 55%;
+    top: 400px;
+    width: 119px;
+   
+}
+
+.logo1:hover
+{
+    width: 272px;
+    height: 70px;
+    transition: all 0,8 ease;
+    box-shadow: 10px 10px 110px rgb(4, 69, 99);
+}
